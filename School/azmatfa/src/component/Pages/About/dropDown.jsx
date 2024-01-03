@@ -5,6 +5,7 @@ import { DropList } from "./dropList";
 const DropDown = () => {
     return (
         <>
+            {/* 
             <div className="dropDown">
                 <ul className='dropDownList'>
                     {DropList.map((val, key) => (
@@ -13,7 +14,7 @@ const DropDown = () => {
                         </li>
                     ))}
                 </ul>
-            </div>
+            </div> */}
         </>
     )
 }
